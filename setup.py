@@ -5,7 +5,7 @@ setuptools.setup(
 	name='sacumen_test',
 	version='1.0',    
 	description='A tool to convert yaml, cfg, conf files to json, env files and set os environment', 
-	url='https://github.com/koradavamsi',
+	url='https://github.com/VK',
 	author='Vamsi Korada',
 	packages=setuptools.find_packages(),
 	classifiers = [

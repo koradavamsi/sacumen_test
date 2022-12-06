@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: sacumen_test
 Version: 1.0
 Summary: A tool to convert configuration files to json, env files and set os environment
-Home-page: https://github.com/koradavamsi
+Home-page: https://github.com/vk
 Author: Vamsi Korada
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: OS Independent
